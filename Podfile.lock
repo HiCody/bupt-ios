@@ -1,0 +1,69 @@
+PODS:
+  - AFDropdownNotification (1.1)
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Bugly (1.4.2)
+  - DACircularProgress (2.3.1)
+  - HexColors (2.2.1)
+  - HMSegmentedControl (1.5.2)
+  - JSBadgeView (1.4.1)
+  - MBProgressHUD (0.9.1)
+  - MJExtension (3.0.3)
+  - MJRefresh (3.0.2)
+  - MWPhotoBrowser (2.1.1):
+    - DACircularProgress (~> 2.3)
+    - MBProgressHUD (~> 0.9)
+    - SDWebImage (!= 3.7.2, ~> 3.7)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - TSMessages (0.9.12):
+    - HexColors (~> 2.2.0)
+
+DEPENDENCIES:
+  - AFDropdownNotification (~> 1.0)
+  - AFNetworking (~> 2.0)
+  - Bugly
+  - HMSegmentedControl
+  - JSBadgeView
+  - MBProgressHUD (~> 0.9.1)
+  - MJExtension
+  - MJRefresh
+  - MWPhotoBrowser
+  - TSMessages
+
+SPEC CHECKSUMS:
+  AFDropdownNotification: 4125b132cd03a8d6293e09ce000aeef55ced1364
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  Bugly: 8f9f9a522ee0fdd9892eff0797a0a1f50b456da1
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  HexColors: abfd172e329dab59888614ccba6f216cec59289d
+  HMSegmentedControl: 83b9686022d2176fb6457d2bdb61e5d6393fed7d
+  JSBadgeView: 3861ddee41094284d9468e6d0af5107f703aaac5
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  MJExtension: de557e1c48ef3212590d3203764c8003fae68815
+  MJRefresh: 85377dc8c70395cf329e102a5c55505ef387c2e1
+  MWPhotoBrowser: ba0d0c09ffda3a7ea10093518738c502c1c7141c
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  TSMessages: c8cc7b80f2a833af533872cd02010cac061532cc
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,32 @@
+//
+//  PrefixHeader.pch
+//  cosign
+//
+//  Created by mac on 15/10/27.
+//  Copyright © 2015年 YuanTu. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//Category
+#import "UIImage+RenderedImage.h"
+#import "UIColor+hexColor.h"
+
+//
+#import "Account.h"
+
+//Vendor
+#import <AFNetworking.h>
+#import <MJExtension.h>
+#import <MBProgressHUD.h>
+#import "MBProgressHUD+MJ.h"
+#import <MJExtension.h>
+#import <MJRefresh.h>
+
+//Macros
+#import "WebInterface.h"
+#import "ColorMacros.h"
+#import "Global.h"
+
+#endif /* PrefixHeader_pch */

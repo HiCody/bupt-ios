@@ -1,0 +1,45 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7c1fe506-4ed8-ca41-82f8-84cff14bf920++2759",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c1b34985-89f7-4ad2-b6ed-32456ccb691a++8605" : {
+
+    },
+    "7c1fe506-4ed8-ca41-82f8-84cff14bf920++6240" : {
+
+    },
+    "7c1fe506-4ed8-ca41-82f8-84cff14bf920++2759" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c1b34985-89f7-4ad2-b6ed-32456ccb691a++8605" : 0,
+    "7c1fe506-4ed8-ca41-82f8-84cff14bf920++6240" : 0,
+    "7c1fe506-4ed8-ca41-82f8-84cff14bf920++2759" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D15651BF-B01A-4562-8FC9-8CAB29311932",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c1b34985-89f7-4ad2-b6ed-32456ccb691a++8605" : "guohaoCosign\/cosign\/Classes\/Vendor\/GJCFAssetsPicker\/GJCFAssetsPickerResourceBundle.bundle\/",
+    "7c1fe506-4ed8-ca41-82f8-84cff14bf920++6240" : "cosign\/cosign\/",
+    "7c1fe506-4ed8-ca41-82f8-84cff14bf920++2759" : "cosign\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "cosign",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "cosign.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/120.26.40.105:81\/svn\/GuoHaoCosign",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7c1fe506-4ed8-ca41-82f8-84cff14bf920++2759"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/120.26.40.105:81\/svn\/GuoHaoCosign",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7c1fe506-4ed8-ca41-82f8-84cff14bf920++6240"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.64.5:8888\/svn\/Mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c1b34985-89f7-4ad2-b6ed-32456ccb691a++8605"
+    }
+  ]
+}
